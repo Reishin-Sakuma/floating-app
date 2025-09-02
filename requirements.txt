@@ -1,0 +1,32 @@
+# フローティングアイコンランチャー 依存ライブラリ
+
+# GUI フレームワーク (標準ライブラリ - 明示的記載)
+# tkinter (Python標準ライブラリ)
+
+# exe化ツール
+pyinstaller>=5.0.0
+
+# オプショナル：システムトレイとアイコン生成
+pystray>=0.19.4
+Pillow>=9.0.0
+
+# テストフレームワーク
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# 開発用ツール
+black>=22.0.0
+flake8>=5.0.0
+
+# WindowsAPI操作・プロセス管理・パフォーマンス監視
+psutil>=5.9.0
+
+# JSON設定ファイル操作（標準ライブラリ - 明示的記載） 
+# json (Python標準ライブラリ)
+
+# パス操作（標準ライブラリ - 明示的記載）
+# pathlib (Python標準ライブラリ)
+# os (Python標準ライブラリ)
+
+# subprocess操作（標準ライブラリ - 明示的記載）
+# subprocess (Python標準ライブラリ)

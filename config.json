@@ -1,0 +1,14 @@
+{
+    "app_path": "C:\\Windows\\System32\\notepad.exe",
+    "app_name": "メモ帳",
+    "app_args": "",
+    "icon_position": {
+        "x": 100,
+        "y": 100
+    },
+    "icon_size": 48,
+    "icon_opacity": 0.9,
+    "auto_start": false,
+    "show_tray_icon": true,
+    "drag_enabled": true
+}

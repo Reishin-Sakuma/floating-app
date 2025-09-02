@@ -1,0 +1,11 @@
+{
+  "app_path": "",
+  "icon_position": {
+    "x": 100,
+    "y": 100
+  },
+  "icon_fixed": false,
+  "auto_start": false,
+  "icon_size": 32,
+  "version": "1.0.0"
+}
